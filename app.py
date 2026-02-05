@@ -177,7 +177,7 @@ with tab2:
         Upload a CSV file containing <b>PSO-selected TCGA features only</b>.
         All values must follow the original TCGA/UCI encoding scheme.<br><br>
         📎 <b>Testing dataset (Google Drive):</b><br>
-        <a href="https://drive.google.com/your-testing-dataset-link" target="_blank">
+        <a href="https://drive.google.com/drive/folders/1sLmHIbFyaF6AQdQPmVut81BplGxaKKKG?usp=sharing" target="_blank">
             https://drive.google.com/your-testing-dataset-link
         </a>
         </div>
